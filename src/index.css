@@ -120,7 +120,7 @@ body h2{
 }
 
 .powerstats{
-  padding: 8px;
+  padding: 3px;
   font-size: 20px;
 }
 
@@ -135,14 +135,18 @@ body h2{
 }
 
 button{
+  font-weight: bold;
+  font-size: 20px;
   padding: 5px;
   background-color: #3db5ff;
   border-radius: 5px;
-  height: 50px;
-  width: 30%;
+  height: 40px;
+  width: 25%;
 }
 
-
+.slug{
+  margin: 5px;
+}
 
 
 
